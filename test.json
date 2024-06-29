@@ -1,0 +1,17 @@
+{
+    "studentName": "jenny",
+    "rollNum": 107,
+    "city": "Mumbai",
+    "isMarried": true,
+    "friendsList": [
+        "Elon",
+        "Bill",
+        "Stew"
+    ],
+    "address": {
+        "flatNum": 1005,
+        "society": "Horizon",
+        "street": "wakad",
+        "PIN": 411057
+    }
+}
